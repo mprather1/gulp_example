@@ -8,7 +8,8 @@
     "gulp-concat": "^2.6.0",
     "gulp-sass": "^2.3.2",
     "gulp-sourcemaps": "^1.6.0",
-    "gulp-util": "^3.0.7"
+    "gulp-util": "^3.0.7",
+    "vinyl-source-stream": "^1.1.0"
   },
   "devDependencies": {
     "gulp-jshint": "^2.0.1",
