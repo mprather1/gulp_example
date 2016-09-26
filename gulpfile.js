@@ -45,5 +45,5 @@ var gulp = require('gulp');
  gulp.task('watch', function(){
   gulp.watch('source/javascript/**/*.js', ['jshint', 'build-js']);
   gulp.watch('source/scss/**/*.scss', ['build-css']);
-  gulp.watch('public/assets/bin/bundle.js', ['brwsrfy'])
+  gulp.watch('public/assets/bin/temp.js', ['brwsrfy'])
  });
